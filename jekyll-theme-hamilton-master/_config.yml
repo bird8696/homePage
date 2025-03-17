@@ -1,0 +1,15 @@
+title: "김태현의 개발 블로그"
+description: "GitHub Pages를 활용한 블로그"
+author: "김태현"
+avatar: "assets/img/profile.png"  # 프로필 이미지 (없으면 주석 처리 가능)
+theme_color: "blue"  # 테마 색상 변경 가능 (blue, green, red, purple 등)
+show_downloads: false
+google_analytics: ""  # 구글 애널리틱스 사용 시 입력
+url: "https://bird8696.github.io"
+baseurl: ""
+remote_theme: "alexandrevicenzi/no-style-please"  # 기본 Hamilton 테마 적용
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
